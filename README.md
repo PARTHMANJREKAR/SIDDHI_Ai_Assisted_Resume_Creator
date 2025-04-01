@@ -1,10 +1,10 @@
-##🌟 SIDDHI AI-Assisted Resume Creator 🌟##
+#🌟SIDDHI AI-Assisted Resume Creator🌟
 
-**🚀 Overview**
+##🚀Overview
 
 SIDDHI AI-Assisted Resume Creator is an intelligent resume-building application that helps users craft professional resumes effortlessly. By leveraging artificial intelligence, the tool provides smart suggestions, optimizes formatting, and ensures resumes are ATS-friendly.
 
-**✨ Features**
+##✨Features
 
 ✅ AI-Powered Suggestions – Personalized content recommendations for each section of your resume.
 ✅ Multiple Templates – Choose from various professional resume designs.
@@ -13,9 +13,9 @@ SIDDHI AI-Assisted Resume Creator is an intelligent resume-building application 
 ✅ Export Options – Download resumes in PDF & DOCX formats.
 ✅ Data Privacy – Securely stores user data with encryption.
 
-**🛠️ Installation**
+##🛠️Installation
 
-**📌 Prerequisites**
+##📌Prerequisites
 
 Ensure you have the following installed:
 
@@ -25,9 +25,9 @@ Ensure you have the following installed:
 
 🌐 Node.js (if using a web interface)
 
-🗄️ MongoDB or PostgreSQL (for database storage)
+🗄️ MongoDB (for database storage)
 
-**📥 Steps to Install**
+##📥Steps to Install
 
 1️⃣ Clone the repository:
 
@@ -51,7 +51,7 @@ cd frontend
 npm install
 npm start
 
-**🎯 Usage**
+##🎯Usage
 
 1️⃣ Open the application in your browser (if web-based) or run it via terminal.
 2️⃣ Enter your details in the respective resume fields.
@@ -59,7 +59,7 @@ npm start
 4️⃣ Make necessary edits based on AI suggestions.
 5️⃣ Download or print your resume in your preferred format.
 
-**🏗️ Technologies Used**
+##🏗️Technologies Used
 
 🎨 Frontend: React.js / HTML / CSS / JavaScript
 
@@ -69,7 +69,7 @@ npm start
 
 🤖 AI Integration: OpenAI API 
 
-**🤝 Contribution**
+##🤝Contribution
 
 🙌 Contributions are welcome! Follow these steps to contribute:
 
@@ -89,11 +89,11 @@ git push origin feature-branch
 
 5️⃣ Submit a pull request.
 
-**📜 License**
+##📜License
 
 This project is licensed under the MIT License.
 
-**📞 Contact**
+##📞Contact
 
 For queries or support, contact:
 📧 Email: parthmanjrekar2546@gmail.com
