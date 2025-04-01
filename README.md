@@ -1,16 +1,21 @@
-🌟 SIDDHI AI-Assisted Resume Creator 🌟
+##🌟 SIDDHI AI-Assisted Resume Creator 🌟##
 
-🚀 Overview
+**🚀 Overview**
 
 SIDDHI AI-Assisted Resume Creator is an intelligent resume-building application that helps users craft professional resumes effortlessly. By leveraging artificial intelligence, the tool provides smart suggestions, optimizes formatting, and ensures resumes are ATS-friendly.
 
-✨ Features
+**✨ Features**
 
-✅ AI-Powered Suggestions – Personalized content recommendations for each section of your resume.✅ Multiple Templates – Choose from various professional resume designs.✅ ATS Optimization – Ensures resumes meet Applicant Tracking System (ATS) standards.✅ Real-Time Editing – Customize your resume dynamically.✅ Export Options – Download resumes in PDF & DOCX formats.✅ Data Privacy – Securely stores user data with encryption.
+✅ AI-Powered Suggestions – Personalized content recommendations for each section of your resume.
+✅ Multiple Templates – Choose from various professional resume designs.
+✅ ATS Optimization – Ensures resumes meet Applicant Tracking System (ATS) standards.
+✅ Real-Time Editing – Customize your resume dynamically.
+✅ Export Options – Download resumes in PDF & DOCX formats.
+✅ Data Privacy – Securely stores user data with encryption.
 
-🛠️ Installation
+**🛠️ Installation**
 
-📌 Prerequisites
+**📌 Prerequisites**
 
 Ensure you have the following installed:
 
@@ -22,7 +27,7 @@ Ensure you have the following installed:
 
 🗄️ MongoDB or PostgreSQL (for database storage)
 
-📥 Steps to Install
+**📥 Steps to Install**
 
 1️⃣ Clone the repository:
 
@@ -46,24 +51,31 @@ cd frontend
 npm install
 npm start
 
-🎯 Usage
+**🎯 Usage**
 
-1️⃣ Open the application in your browser (if web-based) or run it via terminal.2️⃣ Enter your details in the respective resume fields.3️⃣ Choose a template and preview your resume.4️⃣ Make necessary edits based on AI suggestions.5️⃣ Download or print your resume in your preferred format.
+1️⃣ Open the application in your browser (if web-based) or run it via terminal.
+2️⃣ Enter your details in the respective resume fields.
+3️⃣ Choose a template and preview your resume.
+4️⃣ Make necessary edits based on AI suggestions.
+5️⃣ Download or print your resume in your preferred format.
 
-🏗️ Technologies Used
+**🏗️ Technologies Used**
 
 🎨 Frontend: React.js / HTML / CSS / JavaScript
 
 ⚙️ Backend: Python (Flask/Django/FastAPI)
 
-🗄️ Database: MongoDB / PostgreSQL
+🗄️ Database: MongoDB
 
-🤖 AI Integration: OpenAI API / TensorFlow / NLP models
+🤖 AI Integration: OpenAI API 
 
-🤝 Contribution
+**🤝 Contribution**
 
 🙌 Contributions are welcome! Follow these steps to contribute:
-1️⃣ Fork the repository.2️⃣ Create a new branch:
+
+1️⃣ Fork the repository.
+
+2️⃣ Create a new branch:
 
 git checkout -b feature-branch
 
@@ -77,11 +89,12 @@ git push origin feature-branch
 
 5️⃣ Submit a pull request.
 
-📜 License
+**📜 License**
 
 This project is licensed under the MIT License.
 
-📞 Contact
+**📞 Contact**
 
 For queries or support, contact:
-📧 Email: your.email@example.com🔗 GitHub: Your Profile
+📧 Email: parthmanjrekar2546@gmail.com
+🔗 GitHub: PARTHMANJREKAR
