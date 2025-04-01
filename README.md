@@ -93,8 +93,8 @@ This project is licensed under the **MIT License**.
 
 ### **📞 Contact**
 For queries or support, contact:
-📧 **Email**: your.email@example.com  
-🔗 **GitHub**: [Your Profile](https://github.com/your-username)  
+📧 **Email**: parthmanjrekar2546@gmail.com  
+🔗 **GitHub**: https://github.com/your-PARTHMANJREKAR  
 
 ---
 
